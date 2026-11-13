@@ -44,3 +44,14 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+.quarto
+
+Personal Website
+
+.gitattributes
+.Rhistory
+_quarto.yml
+about
+index
+styles
